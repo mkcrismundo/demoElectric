@@ -1,0 +1,17 @@
+# CodeIgniter writable temporary files
+writable/cache/*
+writable/logs/*
+writable/session/*
+writable/debugbar/*
+
+# Keep placeholder files
+!writable/cache/index.html
+!writable/logs/index.html
+!writable/session/index.html
+
+# Environment/private configuration
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
