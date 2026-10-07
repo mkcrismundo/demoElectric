@@ -11,6 +11,7 @@ writable/debugbar/*
 
 # Environment/private configuration
 .env
+env
 
 # OS/editor files
 .DS_Store
